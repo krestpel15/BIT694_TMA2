@@ -1,0 +1,22 @@
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\bin\Debug\Assessment 2 - StopWords.mdb
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\bin\Debug\BIT694_TMA2.exe.config
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\bin\Debug\BIT694_TMA2.exe
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\bin\Debug\BIT694_TMA2.pdb
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.csprojResolveAssemblyReference.cache
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.Form1.resources
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.Properties.Resources.resources
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.csproj.GenerateResource.Cache
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.csproj.CoreCompileInputs.cache
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.exe
+C:\Users\krest\Desktop\BIT694_TM2\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.pdb
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\bin\Debug\Assessment 2 - StopWords.mdb
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\bin\Debug\BIT694_TMA2.exe.config
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\bin\Debug\BIT694_TMA2.exe
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\bin\Debug\BIT694_TMA2.pdb
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.csprojResolveAssemblyReference.cache
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.Form1.resources
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.Properties.Resources.resources
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.csproj.GenerateResource.Cache
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.csproj.CoreCompileInputs.cache
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.exe
+C:\Users\krest\Desktop\BIT694_TMA2_4210211\BIT694_TMA2\BIT694_TMA2\obj\Debug\BIT694_TMA2.pdb
